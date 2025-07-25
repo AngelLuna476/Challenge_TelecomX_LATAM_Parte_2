@@ -1,4 +1,4 @@
-<h1 align="center">Challenge_TelecomX_LATAM_Parte_2</h1>
+<h1 align="center">Challenge Telecom X LATAM Parte 2</h1>
 
 <p align="center"><strong><em>Programa de especialización de la formación de Data Science por parte de ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
 
